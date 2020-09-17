@@ -6,5 +6,13 @@
   <artifactId>huawei_pushsdk</artifactId>
   <version>5.0.2.300</version>
   <packaging>aar</packaging>
+  <dependencies>
+    <dependency>
+      <groupId>com.huawei.hms</groupId>
+      <artifactId>opendevice</artifactId>
+      <version>5.0.2.300</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
   <description>POM was created from install:install-file</description>
 </project>
